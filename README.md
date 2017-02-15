@@ -1,6 +1,5 @@
 # simple-todo
-
-> A Vue.js project
+Basic todo list app using Vue.js 2
 
 ## Build Setup
 
