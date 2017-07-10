@@ -20,7 +20,7 @@
   </div>
     <div class="nothing-banner" v-else>
       <h1>Nothing to do!</h1>
-    <div>
+    </div>
   </div>
 </template>
 
